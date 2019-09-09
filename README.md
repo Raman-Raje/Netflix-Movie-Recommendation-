@@ -1,6 +1,7 @@
 
 Netflix-Movie-Recommendation-(Collaborative based recommendation)
 ===================================================================
+![Netflix](/netflix.jpg)
 
 ## Objective: 
 For the given movie and user predict the rating given by him/her to the movie

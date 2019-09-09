@@ -1,6 +1,7 @@
 
 Netflix-Movie-Recommendation-(Collaborative based recommendation)
 ===================================================================
+
 ![Netflix](/netflix.jpg)
 
 ## Objective: 

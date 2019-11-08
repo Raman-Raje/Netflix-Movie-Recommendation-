@@ -18,3 +18,7 @@ obtained for model with Matrix Factorization SVD with RMS value of 1.072
 * Slight reduction in RMSE found for tuned models.
 * Best train result are found in case of knn_bsl_m with minimum rmse of 0.323167
 * Uavg and Mavg features found most important for most of the models.
+
+## Summary:
+
+![results](results.png)

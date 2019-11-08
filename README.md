@@ -21,4 +21,4 @@ obtained for model with Matrix Factorization SVD with RMS value of 1.072
 
 ## Summary:
 
-![results](results.png)
+![results](/images/results.png)
